@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.exe
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.dll
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+C:\Users\iorah\source\repos\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.dll
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+C:\Users\iorah\source\repos\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache

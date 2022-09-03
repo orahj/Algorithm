@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.exe
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.deps.json
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.dll
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\ref\GenerateBinaryNumbers.dll
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\bin\Debug\net5.0\GenerateBinaryNumbers.pdb
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.dll
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\ref\GenerateBinaryNumbers.dll
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.pdb
+C:\Users\iorah\source\repos\Algorithms\GenerateBinaryNumbers\obj\Debug\net5.0\GenerateBinaryNumbers.genruntimeconfig.cache

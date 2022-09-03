@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.exe
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.deps.json
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\ref\CustomLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.pdb
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\ref\CustomLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.pdb
+C:\Users\iorah\source\repos\Algorithms\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.genruntimeconfig.cache

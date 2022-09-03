@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.exe
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.deps.json
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\ref\CyclicLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\bin\Debug\net5.0\CyclicLinkedList.pdb
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\ref\CyclicLinkedList.dll
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.pdb
+C:\Users\iorah\source\repos\Algorithms\CyclicLinkedList\obj\Debug\net5.0\CyclicLinkedList.genruntimeconfig.cache

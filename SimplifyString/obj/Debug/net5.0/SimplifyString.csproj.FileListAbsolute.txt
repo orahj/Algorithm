@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.exe
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.deps.json
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.dll
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\ref\SimplifyString.dll
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\bin\Debug\net5.0\SimplifyString.pdb
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.dll
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\ref\SimplifyString.dll
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.pdb
+C:\Users\iorah\source\repos\Algorithms\SimplifyString\obj\Debug\net5.0\SimplifyString.genruntimeconfig.cache

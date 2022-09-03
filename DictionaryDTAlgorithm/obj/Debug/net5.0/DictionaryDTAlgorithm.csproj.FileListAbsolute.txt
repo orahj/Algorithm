@@ -1,0 +1,15 @@
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.exe
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.deps.json
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.dll
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\ref\DictionaryDTAlgorithm.dll
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\bin\Debug\net5.0\DictionaryDTAlgorithm.pdb
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.dll
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\ref\DictionaryDTAlgorithm.dll
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.pdb
+C:\Users\iorah\source\repos\Algorithms\DictionaryDTAlgorithm\obj\Debug\net5.0\DictionaryDTAlgorithm.genruntimeconfig.cache

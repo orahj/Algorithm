@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.exe
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.deps.json
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\ref\StackDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\bin\Debug\net5.0\StackDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\ref\StackDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\StackDataStructure\obj\Debug\net5.0\StackDataStructure.genruntimeconfig.cache

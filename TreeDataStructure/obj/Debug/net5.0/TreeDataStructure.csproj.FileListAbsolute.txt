@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.exe
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.deps.json
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\ref\TreeDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\bin\Debug\net5.0\TreeDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\ref\TreeDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\TreeDataStructure\obj\Debug\net5.0\TreeDataStructure.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.exe
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.deps.json
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.runtimeconfig.json
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.runtimeconfig.dev.json
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\ref\QueueDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.csproj.AssemblyReference.cache
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.AssemblyInfoInputs.cache
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.AssemblyInfo.cs
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\ref\QueueDataStructure.dll
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.pdb
+C:\Users\iorah\source\repos\Algorithms\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.genruntimeconfig.cache
